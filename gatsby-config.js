@@ -14,6 +14,7 @@ module.exports = {
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
+  partytownProxiedURLs: [`https://platform.twitter.com/widgets.js`],
   plugins: [
     `gatsby-plugin-image`,
     {
